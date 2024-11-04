@@ -1,5 +1,5 @@
 # Shell Description
-This comprehensive overview provides details on external and internal commands implemented in the shell, along with error-handling mechanisms. Additionally, test cases and assumptions are outlined to guide users in utilizing the shell effectively
+This comprehensive overview provides details on external and internal commands implemented in the shell, along with error-handling mechanisms. Additionally, test cases and assumptions are outlined to guide users in utilizing the shell effectively.
 
 ## External Commands
 
